@@ -1,0 +1,18 @@
+.tela {
+    padding-top: 180px!important;
+    height: 100vh;
+}
+
+div.ex1 {
+  background-color: lightblue;
+  height: 40px;
+  width: 200px;
+  overflow-y: scroll;
+}
+
+
+.total {
+  margin-top: 20px;
+  font-size: 20px;
+  color: rgb(129, 9, 45);
+}
